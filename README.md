@@ -24,6 +24,9 @@ Zipco Foods generates a significant amount of sales data daily, which is current
 • ﻿﻿Github: Used for version control, allowing for collaborative development and maintenance of the ETL scripts and other project documents.
 • ﻿﻿Apache Airflow: Orchestrates the ETL processes, scheduling jobs efficiently monitoring the workflow of data through various stages of the pipeline.
 
+## Data Architecture
+[Download Here]("C:\Users\User\OneDrive\week 11\Zipco.drawio.png")
+
 ## Project Scope
 • ﻿﻿Data Extraction
 • Extract data from various CSV files into a Pandas DataFrame. This step involves reading large datasets efficiently, handling different data formats, and managing 

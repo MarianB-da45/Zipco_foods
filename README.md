@@ -25,7 +25,7 @@ Zipco Foods generates a significant amount of sales data daily, which is current
 • ﻿﻿Apache Airflow: Orchestrates the ETL processes, scheduling jobs efficiently monitoring the workflow of data through various stages of the pipeline.
 
 ## Data Architecture
-[Download Here](#"C:\Users\User\OneDrive\week 11\Zipco.drawio.png")
+[Download Here](https:\Users\User\OneDrive\week 11\Zipco.drawio.png)
 
 ## Project Scope
 • ﻿﻿Data Extraction
